@@ -1,3 +1,2 @@
 #支持私库
-#xuxueli/xxl-job-admin:2.4.0
-elasticsearch:7.14.0
+java-1.8.0-openjdk
