@@ -1,2 +1,2 @@
 #支持私库
-java-1.8.0-openjdk
+opjdk8:latest
